@@ -1,0 +1,45 @@
+ tools:context=".ui.activity.MainActivity"
+
+http://jsonplaceholder.typicode.com/users
+
+https://www.tutorialspoint.com/android/android_sqlite_database.html :database example
+
+http://androidopentutorials.com/android-image-slideshow-using-viewpager/  :Viewpager
+
+http://javapapers.com/android/android-image-slider-tutorial/:swipeImageFragement
+
+https://inducesmile.com/android/android-pull-to-refresh-using-swiperefreshlayout/ :swipeRefreshLayout
+
+http://www.androidhive.info/2016/01/android-working-with-recycler-view/ :RecyclerView
+
+http://androidtuts4u.blogspot.in/2013/02/android-list-view-using-custom-adapter.html :CustomAdapter
+
+http://stackoverflow.com/questions/16200956/how-to-optimize-android-listview :Optimizing Listview
+
+https://github.com/Raizlabs/DBFlow/blob/master/usage2/GettingStarted.md ://DBflow documentation
+
+
+https://guides.codepath.com/android/DBFlow-Guide#querying-rows  :DBFlowDocmentation.....
+
+https://inducesmile.com/android/android-tab-with-swipe-views-viewpager-fragmentpageradapter-in-android-studio/ :swipefragment
+
+https://developer.android.com/training/animation/screen-slide.html:/swipe fragment Android developer
+
+https://codelabs.developers.google.com/codelabs/material-design-style/index.html?index=..%2F..%2Findex#0  :// Android UI Design Elements
+
+
+ https://materialdesignicons.com/ : material design icon
+
+https://www.udacity.com/course/how-to-use-git-and-github--ud775 :Udacity how to use git and github
+
+https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29607789560923#  adacity how to use github
+
+
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/ upload project on github using commandline
+
+
+
+
+
+
+
