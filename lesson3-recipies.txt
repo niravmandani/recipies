@@ -1,2 +1,5 @@
 this is pull demo 
 lesson3 editing a file on github
+this is local change
+this is diff
+>>>>>>> origin/master
